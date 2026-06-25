@@ -8,7 +8,8 @@ The project is built to take full advantage of the Basys 3 FPGA architecture, ut
 * **Official Documentation:** For detailed hardware specifications, pin mappings, and schematics, refer to the [Digilent Basys 3 Reference Manual](https://digilent.com/reference/programmable-logic/basys-3/reference-manual).
 
 ### Hardware Overview
-![Digilent Basys 3 FPGA Board](https://digilent.com/reference/_media/programmable-logic/basys-3/basys3-0.png)
+![Digilent Basys 3 FPGA Board]<img width="4320" height="2880" alt="basys3-frontbackviews" src="https://github.com/user-attachments/assets/5480d60a-dd29-484d-a34c-049656f84586" />
+
 
 ---
 
@@ -17,7 +18,9 @@ See the real-time clock in action! The video below demonstrates the hardware con
 
 ### 🎥 Watch Demo Video
 
-(גרור ושחרר כאן את קובץ הוידאו clock.mp4 בזמן עריכת הקובץ ב-GitHub)
+
+https://github.com/user-attachments/assets/4bcb8a48-da8e-4e8f-9716-668fb3286117
+
 
 ---
 
