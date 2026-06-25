@@ -13,9 +13,11 @@ http://googleusercontent.com/image_collection/image_retrieval/106640508259168961
 ---
 
 ## Project Demonstration (Video)
-To see the real-time clock in action, including hardware configuration, the manual time-setting mechanism, and peripheral interaction, watch the included demonstration video:
+See the real-time clock in action! The video below demonstrates the hardware configuration, the manual time-setting mechanism using the switches, and peripheral interaction.
 
-* **[Watch the Clock Operation Video (`clock.mp4`)](./clock.mp4)**
+<video src="clock.mp4" controls width="100%" poster="https://digilent.com/reference/_media/programmable-logic/basys-3/basys3-0.png">
+  Your browser does not support the video tag. You can watch it directly here: [Download clock.mp4](./clock.mp4)
+</video>
 
 ---
 
