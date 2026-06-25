@@ -16,12 +16,8 @@ The project is built to take full advantage of the Basys 3 FPGA architecture, ut
 See the real-time clock in action! The video below demonstrates the hardware configuration, the manual time-setting mechanism using the switches, and peripheral interaction.
 
 ### 🎥 Watch Demo Video
-If the interactive player below does not load automatically in your browser, you can view or download the video file directly:  
-▶️ **[Click here to play / download clock.mp4](./clock.mp4)**
 
-<video src="./clock.mp4" controls width="100%" height="auto">
-  <p>Your browser does not support embedded videos. Please download the file to watch it: <a href="./clock.mp4">clock.mp4</a></p>
-</video>
+(גרור ושחרר כאן את קובץ הוידאו clock.mp4 בזמן עריכת הקובץ ב-GitHub)
 
 ---
 
