@@ -8,15 +8,19 @@ The project is built to take full advantage of the Basys 3 FPGA architecture, ut
 * **Official Documentation:** For detailed hardware specifications, pin mappings, and schematics, refer to the [Digilent Basys 3 Reference Manual](https://digilent.com/reference/programmable-logic/basys-3/reference-manual).
 
 ### Hardware Overview
-http://googleusercontent.com/image_collection/image_retrieval/10664050825916896134
+![Digilent Basys 3 FPGA Board](https://digilent.com/reference/_media/programmable-logic/basys-3/basys3-0.png)
 
 ---
 
 ## Project Demonstration (Video)
 See the real-time clock in action! The video below demonstrates the hardware configuration, the manual time-setting mechanism using the switches, and peripheral interaction.
 
-<video src="clock.mp4" controls width="100%" poster="https://digilent.com/reference/_media/programmable-logic/basys-3/basys3-0.png">
-  Your browser does not support the video tag. You can watch it directly here: [Download clock.mp4](./clock.mp4)
+### 🎥 Watch Demo Video
+If the interactive player below does not load automatically in your browser, you can view or download the video file directly:  
+▶️ **[Click here to play / download clock.mp4](./clock.mp4)**
+
+<video src="./clock.mp4" controls width="100%" height="auto">
+  <p>Your browser does not support embedded videos. Please download the file to watch it: <a href="./clock.mp4">clock.mp4</a></p>
 </video>
 
 ---
