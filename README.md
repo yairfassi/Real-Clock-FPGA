@@ -65,7 +65,7 @@ Below is the pin specification layout mapping directly to the Top-Level (`REAL_C
 | `RESET` | Input | 1 bit | Synchronous global reset signal, Active-High. |
 | `TESTMODE` | Input | 1 bit | Fast-forward flag: `1` accelerates clock intervals for testing; `0` targets exact 1-second cycles. |
 | `LOAD` | Input | 1 bit | Strobe signal to commit manual input values into the internal registers. |
-| `ADDRS` | Input | 2 bits | Destination selection: `00` = Seconds, `01` = Minutes, `10` = Hours. |
+| `ADDRS` | Input | 2 bits | Destination selection: `00` = Time runs noramlly , `01` = Hours, `10` = Minutes, `11` = Secondss. |
 | `DATA_IN` | Input | 6 bits | Binary input bus wired to physical toggle switches for setting values. |
 | `LED_OUT` | Output | 8 bits | Segment enable patterns (`A` through `G` + Decimal Point) for the on-board display. |
 | `ANODE_ACTIVATE` | Output | 4 bits | Active-Low digit selectors used to strobe each of the 4 on-board displays. |
