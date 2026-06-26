@@ -78,7 +78,7 @@ Below is the pin specification layout mapping directly to the Top-Level (`REAL_C
 
 1. **System Reset:** Toggle the designated `RESET` switch or button on your Basys 3 board to high (`1`) and return it to low (`0`). This synchronizes the system state back to `00:00:00`.
 2. **Setting Time Manually (Load Execution):**
-   * Adjust the 2-bit `ADDRS` switches to select the unit you want to update (e.g., `01` to modify minutes).
+   * Adjust the 2-bit `ADDRS` switches to select the unit you want to update (e.g., `10` to modify minutes).
    * Convert your intended target value into binary using the 6 slide switches tied to `DATA_IN` (e.g., for the 15th minute, flip the switches to represent binary `001111`).
    * Trigger the `LOAD` switch/push-button to instantly override and latch the value into the system memory.
 
